@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\bin\Debug\net6.0\online banking app.exe
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\bin\Debug\net6.0\online banking app.deps.json
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\bin\Debug\net6.0\online banking app.runtimeconfig.json
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\bin\Debug\net6.0\online banking app.dll
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\bin\Debug\net6.0\online banking app.pdb
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.dll
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\refint\online banking app.dll
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.pdb
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\online banking app.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\ussd-bank-app\online banking app\online banking app\obj\Debug\net6.0\ref\online banking app.dll

@@ -92,6 +92,11 @@ class CardHolder
                     acc.setBalance(acc.getBalance() + transfermoney);
 
                     Console.WriteLine("you transferring R" + transfermoney + " sent to: " + acc.getCardnumber());
+
+                }
+                else
+                {
+                    Console.WriteLine("this account don't exist");
                     break;
                 }
             }
