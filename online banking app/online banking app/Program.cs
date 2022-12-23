@@ -92,13 +92,10 @@ class CardHolder
                     acc.setBalance(acc.getBalance() + transfermoney);
 
                     Console.WriteLine("you transferring R" + transfermoney + " sent to: " + acc.getCardnumber());
+                    
+                }
+              
 
-                }
-                else
-                {
-                    Console.WriteLine("this account don't exist");
-                    break;
-                }
             }
         }
         else
@@ -177,10 +174,6 @@ class CardHolder
                         break;
                     case 2:
                         ch.transfer(holder);
-                        foreach (CardHolder n in ch.getList())
-                        {
-                            Console.WriteLine(n.getCardnumber() + " <=> " + n.getBalance());
-                        }
                         break;
                     case 3:
                         ch.deposit(holder);
